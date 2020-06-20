@@ -1,0 +1,6 @@
+{
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "python.dataScience.themeMatplotlibPlots": true
+}
